@@ -1,5 +1,7 @@
 # 🎮 Survival Arena
 
+ ![Survival Arena](/images/banner.png)
+
 A 2D survival game built with Python and Pygame.
 
 Collect resources, craft weapons, survive enemy waves and defeat powerful bosses.
