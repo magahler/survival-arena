@@ -92,8 +92,7 @@ survival-arena/
 ## 👨‍💻 Team
 
 - Matthias (Coach / Tech Lead)
-- Developer 1
-- Developer 2
+- Jannes and Felix (Developer)
 
 ---
 
